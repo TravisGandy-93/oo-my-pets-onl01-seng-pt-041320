@@ -22,7 +22,7 @@ class Owner
       self.all.clear
   end 
   def cats 
-      Cats.all.find{|cats| cats.owner == self}
+      self.
   end 
   
 end
