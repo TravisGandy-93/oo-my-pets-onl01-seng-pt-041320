@@ -6,7 +6,4 @@ class Cat
       @name = name 
       @owner = owner
   end 
-  def owner
-      @owner = Owner.new(new_owner)
-  end 
 end
