@@ -33,7 +33,7 @@ class Owner
       new_dog = Dog.new(new_dog, self)
   end  
   def walk_dogs
-      
+      dogs.each{|dog| 
   
   
 end
