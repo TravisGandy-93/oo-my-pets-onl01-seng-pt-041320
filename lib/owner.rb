@@ -22,7 +22,7 @@ class Owner
       self.all.clear
   end 
   def cats 
-      self.pets[:cat].size
+      
   end 
   
 end
